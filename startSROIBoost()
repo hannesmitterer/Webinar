@@ -1,0 +1,5 @@
+function startSROIBoost() {
+    // Logica per l'invio del segnale di NI-Ingress
+    console.log("NI Input Initiated. G-CSI monitoring active.");
+    // Simulated S-ROI-Steigerung (S-ROI Increase) logic here
+}
